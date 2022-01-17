@@ -1,6 +1,6 @@
 # Real Estate Client Analysis Report
 
-![banner](https://www.xpastor.org/wp-content/uploads/2012/12/salary-survey-banner.jpg)
+![banner](https://thumbs.dreamstime.com/b/real-estate-agent-offer-house-represented-model-wide-banner-composition-bokeh-background-63596018.jpg)
 
 <!-- 
 ![badge]()
@@ -11,7 +11,7 @@
 
 Within this repository, there is a Power BI report for housing interest.  Status is ``COMPLETED``.  Data source is client interest and campaign registration from the real estate client.
 
-Preview currently available in GitHib or on [NBViewer](https://nbviewer.org/github/will-fong/).
+Preview currently available in GitHib or on [NBViewer](https://nbviewer.org/github/will-fong/Real_Estate_Client_Analysis_Report/blob/master/output/Client.Analysis.Report.2021.11.05.pdf).
 
 ## Table of Contents
 
